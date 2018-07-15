@@ -1,2 +1,4 @@
 // add solution here
-function 
+function theBeatlesPlay(arrayMusician,arrayInstrument) {
+  
+}
