@@ -10,6 +10,6 @@ function theBeatlesPlay(arrayMusician,arrayInstrument) {
   return array
 }
 
-function johnLennonFacts(array) {
+function johnLennonFacts(arrayFact) {
   
 }
