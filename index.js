@@ -16,3 +16,4 @@ function johnLennonFacts(arrayFact) {
   }
   return arrayFact
 }
+
